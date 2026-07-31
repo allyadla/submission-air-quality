@@ -27,7 +27,7 @@ streamlit run dashboard.py
 ```
 
 Dashboard juga dapat diakses secara online melalui Streamlit Cloud:
-🔗 [Air Quality Dashboard](https://submission-air-quality-wlpasyfiqwdcvz9b3selps.streamlit.app/)
+🔗 [Air Quality Dashboard](https://dicodingsubmission-airquality.streamlit.app/)
 
 ## Struktur Proyek
 
